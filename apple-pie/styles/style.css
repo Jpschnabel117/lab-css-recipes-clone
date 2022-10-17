@@ -1,0 +1,35 @@
+body {
+  width: 100vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.content {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.landing {
+  height: 75vh;
+  background-image: url(../images/apple-pie.jpg);
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  color: white;
+}
+p {
+  font-size: x-large;
+}
+img {
+  width: 30vw;
+  align-self: center;
+}
+/* .recipeinfo {
+  width: 30vw;
+}
+.cookinginfo {
+  width: 30vw;
+} */
